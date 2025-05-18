@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "CODE": "PARK", "GROUP": "RecreationA", "DESCRIP": "JamyangPhodang", "NUMBER": 1416, "TYPE": "Line", "COLOUR_NU": 16, "LENGTH": 147.33 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 91.463761720366804, 26.859401774280318 ], [ 91.463997634295026, 26.859232322330115 ], [ 91.464262402475327, 26.85928045448636 ], [ 91.464388220660496, 26.859498740612533 ], [ 91.463761720366804, 26.859401774280318 ] ] ] ] } }
+]
+}
